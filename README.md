@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saimayaqub
-- 👀 I’m interested in asp.net. I'm too excited to get back to asp.net programming after the gap of a few years. 
-- 🌱 I’m currently learning Asp.Net Angular
-- 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 How to reach me saaima.yaqub@gmail.com
+- 👀 I’m a python enthusiast. I create datasets of any resource you'll provide and deliver your projects with decision making and data visualization requirements.
+- Predictive analysis to facilitate right decision making is my fascination. 
+- 💞️ I’m looking to collaborate on predictive analysis and machine learning projects.
+- 📫 How to reach me: saaima.yaqub@gmail.com
 
 <!---
 saimayaqub/saimayaqub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
