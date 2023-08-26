@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @saimayaqub
-- 👀 I’m a python enthusiast. I create datasets of any resource you'll provide and deliver your projects with decision making and data visualization requirements.
-- Predictive analysis to facilitate right decision making is my fascination. 
-- 💞️ I’m looking to collaborate on predictive analysis and machine learning projects.
-- 📫 How to reach me: saaima.yaqub@gmail.com
+- 👀 I’m known as an all rounder in technology covering the areas such as delivering end to end tech solutions, Crafting digital Transformation roadmaps, Requirements engineering, Managing the products in IoT, Cybersecurity, Healthcare and Fintech domain with a blend of digital marketing - all backed with hands on software development experience of several years.  
+-  Looking to collaborate regarding emerging technologies. Keen to work on predictive analysis and machine learning projects.
+
 
 <!---
 saimayaqub/saimayaqub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
