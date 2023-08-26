@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saimayaqub
 - 👀 I’m known as an all rounder in technology covering the areas such as delivering end to end tech solutions, Crafting digital Transformation roadmaps, Requirements engineering, Managing the products in IoT, Cybersecurity, Healthcare and Fintech domain with a blend of digital marketing - all backed with hands on software development experience of several years.  
--  Looking to collaborate regarding emerging technologies. Keen to work on predictive analysis and machine learning projects.
+-  Looking to collaborate regarding emerging technologies such as using data science for predictive analysis, data reporting & visualization and more. 
 
 
 <!---
